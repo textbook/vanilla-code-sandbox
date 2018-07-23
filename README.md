@@ -1,2 +1,3 @@
-# vanilla-code-sandbox
-Created with CodeSandbox
+# Code Sandbox
+
+Basic template for a Code Sandbox with integrated instructions.
